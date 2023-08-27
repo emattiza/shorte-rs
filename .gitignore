@@ -1,4 +1,1 @@
-/target
-.envrc.local
-bin/
-node_modules/
+assets/
